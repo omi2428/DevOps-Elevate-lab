@@ -1,1 +1,3 @@
-This is my First Internship  Repository/ Author: OM PRAKASH
+This is my First Internship  Repository
+<br>
+Author: OM PRAKASH
